@@ -8,6 +8,10 @@
 
 <h3>🔖 Sobre o projeto</h3>
 <p>Projeto desenvolvido em Javascript puro para consumir a API do Github. Basta digitar um usuário do Github e a aplicação irá retornar dados do perfil procurado.  <p>
+<ul>
+    <li><a href="https://github-search-profiles.netlify.app/" target="_blank">Projeto no netlify</a></li>
+    <li><a href="https://www.figma.com/file/m5JYqvEa6Zi4zZ7kkfMYJ1/Github-Search?node-id=0%3A1" target="_blank">Projeto no Figma</a></li>
+</ul>
 
 <h3>🚀 Tecnologias</h3>
 <ul>
